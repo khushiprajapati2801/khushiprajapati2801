@@ -1,4 +1,4 @@
-v# Hi there, I'm Khushi! 👋
+# Hi there, I'm Khushi! 👋
 
 Full Stack Web Developer & WordPress Specialist focused on building scalable backend architectures, RESTful APIs, and responsive custom websites.
 
